@@ -55,3 +55,6 @@ Zoom for meets
 Problem faced during construct week
 As this was the first big project we were building, we faced problems like using git, adjusting to using zoom, etc but in very little time we all managed to use them correctly. We had some minor issues while getting together the codes but we were able to fix those with proper communication and guidance from our instructor Chandra Sekhar and our IA’s.
 Thank You
+<br/>
+     <img   src="https://github.com/ShubhamShewale98/Images/blob/main/netmeds.png?raw=true"></img>
+  <br/>
